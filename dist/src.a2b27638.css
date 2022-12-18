@@ -1,27 +1,24 @@
-#container
-{
-    width:80%;
-    height:600px;
-    background-color:lightgreen;
-    margin-left:10%;
-    align-items: center;
-    position:absolute;
+#container {
+  width: 80%;
+  height: 600px;
+  background-color: lightgreen;
+  margin-left: 10%;
+  align-items: center;
+  position: absolute;
 }
 
+#ball {
+  background-color: blueviolet;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
 
-#ball
-{
-    background-color:blueviolet;
-    border-radius:50%;
-    height:100px;
-    width:100px;
-    
-    position: absolute;
-    margin:40px 40px 40px 40px;
+  position: absolute;
+  margin: 40px 40px 40px 40px;
 }
-body
-{
-    margin: 0;
+body {
+  margin: 0;
 }
+
 
 /*# sourceMappingURL=/src.a2b27638.css.map */
